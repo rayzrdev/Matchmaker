@@ -11,7 +11,7 @@
 
     <name>Matchmaker</name>
     <description>An intuitive Bukkit library for creating minigames with ease.</description>
-    <url>https://rayzr.tech/matchmaker</url>
+    <url>https://rayzr.dev</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
